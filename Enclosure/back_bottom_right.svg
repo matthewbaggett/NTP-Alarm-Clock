@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="258.01355"
-     inkscape:cy="469.05947"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="546.86808"
+     inkscape:cy="215.65185"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3840"
-     inkscape:window-height="2038"
+     inkscape:window-width="2880"
+     inkscape:window-height="1505"
      inkscape:window-x="0"
-     inkscape:window-y="39"
+     inkscape:window-y="36"
      inkscape:window-maximized="1" />
   <defs
      id="defs4" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,7 +142,7 @@
        id="rect7976"
        width="37.166206"
        height="41.772507"
-       x="877.14587"
+       x="874.82239"
        y="307.40118"
        transform="matrix(0,1,1,0,0,0)" />
     <rect
@@ -150,7 +150,7 @@
        id="rect8009"
        width="38.371281"
        height="31.284666"
-       x="876.01184"
+       x="873.68835"
        y="-450.23608"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
@@ -242,7 +242,7 @@
        width="10.080628"
        height="34.883778"
        x="878.56128"
-       y="814.92035" />
+       y="801.67578" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0000ff;fill-opacity:0;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.54929304px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6479-1"
@@ -256,7 +256,7 @@
        width="10.080628"
        height="34.883778"
        x="594.20734"
-       y="814.91992" />
+       y="801.67578" />
     <g
        id="g6476-7"
        transform="translate(618.63292,-70.271604)">
